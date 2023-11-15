@@ -1,0 +1,24 @@
+
+7
+java:S1220""Move this file to a named package.8þ…É¼1
+R
+java:S1854"5Remove this useless assignment to local variable "a".(€Øùü8“þ…É¼1
+R
+java:S1854"5Remove this useless assignment to local variable "b".(€Øùü8“þ…É¼1
+R
+java:S1854"5Remove this useless assignment to local variable "c".(€Øùü8“þ…É¼1
+R
+java:S1854"5Remove this useless assignment to local variable "a".(§ÅßØ8“þ…É¼1
+R
+java:S1854"5Remove this useless assignment to local variable "b".(§ÅßØ8“þ…É¼1
+R
+java:S1854"5Remove this useless assignment to local variable "c".(§ÅßØ8“þ…É¼1
+`
+java:S1659">Declare "b" and all following declarations on a separate line.(ë³ ¹øÿÿÿÿ8”þ…É¼1
+H
+java:S1481"&Remove this unused "a" local variable.(ë³ ¹øÿÿÿÿ8”þ…É¼1
+H
+java:S1481"&Remove this unused "b" local variable.(ë³ ¹øÿÿÿÿ8”þ…É¼1
+H
+java:S1481"&Remove this unused "c" local variable.(ë³ ¹øÿÿÿÿ8”þ…É¼1
+E	java:S108")Either remove or fill this block of code.(§ÅßØ8§¥†É¼1

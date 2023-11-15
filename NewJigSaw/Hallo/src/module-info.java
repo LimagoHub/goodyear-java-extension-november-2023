@@ -1,0 +1,4 @@
+module Hallo {
+
+    requires myLib;
+}

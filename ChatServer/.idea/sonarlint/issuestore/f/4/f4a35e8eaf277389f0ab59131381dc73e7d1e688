@@ -1,0 +1,6 @@
+
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¾¢—Šıÿÿÿÿ8¥ÒÖÈ¼1
+M
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8°ÒÖÈ¼1

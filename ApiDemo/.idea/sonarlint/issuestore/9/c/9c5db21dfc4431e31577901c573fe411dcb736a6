@@ -1,0 +1,7 @@
+
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Íûæ­ùÿÿÿÿ8ÆåÂë¼1
+l
+java:S1128"ORemove this unused import 'de.goodyear.translator.inner.ToLowerTranslatorImpl'.(ÕÆÁ8ÍåÂë¼1
+l
+java:S1128"ORemove this unused import 'de.goodyear.translator.inner.ToUpperTranslatorImpl'.(¸£8ÎåÂë¼1

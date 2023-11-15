@@ -1,11 +1,14 @@
 package de.tiere;
 
+import java.net.Socket;
+
 public class Schwein {
 
     private String name;
     private volatile int gewicht;
 
     public Schwein(final String name) {
+
         this.name = name;
         this.gewicht = 10;
     }
@@ -27,6 +30,19 @@ public class Schwein {
     }
 
     public void fuettern() {
+//        new Thread(new Runnable() {
+//            @Override
+//            public void run() {
+//                fuetternImpl();
+//            }
+//        }).start();
+//
+//        new Thread(()->fuetternImpl());
+
+        new Thread(this::fuetternImpl).start();
+    }
+
+    private void fuetternImpl() {
         try {
             Thread.sleep(2000);
             setGewicht(getGewicht() + 1);
@@ -44,4 +60,6 @@ public class Schwein {
         sb.append('}');
         return sb.toString();
     }
+
+
 }
